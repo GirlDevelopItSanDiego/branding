@@ -1,3 +1,5 @@
+[Branding info from HQ](https://brandfolder.com/gdi)
+
 Custom branding for Girl Develop It San Diego.
 
 GDI Pink: #f05c63
